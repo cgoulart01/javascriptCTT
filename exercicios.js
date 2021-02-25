@@ -7,7 +7,7 @@ function helloName(nome) {
 }
 helloName('Caio')
 
-function somaNumero(a, b) {
+let somaNumero= function (a, b) {
 	resultado = a + b;
 	console.log(resultado)
 }
@@ -23,4 +23,4 @@ const number2=Number(b);
 	}
 	console.log(soma)
 }
-somaString(2,'a')
+somaString(2,'4')

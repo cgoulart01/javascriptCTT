@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node exercicios.js  "
+run = "node exercicios-aula2.js"
